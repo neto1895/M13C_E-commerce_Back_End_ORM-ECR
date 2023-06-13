@@ -43,7 +43,8 @@ To install necessary dependencies, run the following command:
 
 1. Clone the repository to your local machine.
 2. In the terminal, navigate to the repository directory.
-3. Run the following command to generate a README file:
+3. Run the schema.sql from the db folder to create your database using MySQL shell commands.
+3. Run the following command:
 
 >npm run seed 
 
